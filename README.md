@@ -14,5 +14,5 @@ Make sure you have the following installed:
 - pnpm: `npm install -g pnpm`
 
 # How to use the project
-- Clone the repository: `git clone https://github.com/williamgarcia2004/business-card-with-react-and-tailwindcss.git` (with `.` you'll clone the project in the current folder)
+- Clone the repository: `git clone https://github.com/williamgarcia2004/business-card-with-react-and-tailwindcss.git .` (with `.` you'll clone the project in the current folder)
 - Execute these commands: `pnpm install` and `pnpm run dev`
